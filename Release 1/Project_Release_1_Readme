@@ -1,1 +1,42 @@
+Gies Business & Gies Online Web Analytics Project - Release 1
 
+Project Overview:
+  The Gies Business and Gies Online Web Analytics Project is aimed at analyzing user behavior, engagement, and site performance 
+  across both domains using data extracted from Google Analytics. This project focuses on key metrics and dimensions to 
+  provide actionable insights into customer journeys, landing page effectiveness, technology usage, and event tracking.
+
+Project Scope:
+  • Domains Covered:
+      o Gies Business
+      o Gies Online
+  • Data Source: Google Analytics
+  • Time Period: January 1, 2025 – February 15, 2025
+
+Key Data Points Extracted:
+  • Events: Tracking user interactions such as clicks, video plays, form submissions, and downloads.
+  • Customer Journey: Analyzing the flow of users through the website, identifying entry points, navigation patterns, and exit pages.
+  • Landing Pages: Evaluating the performance of landing pages based on user engagement, bounce rates, and conversion potential.
+  • Technology Stats: Device types, browsers, and operating systems used to access the websites.
+  
+Dimensions (Variables):
+  • Page Name: The specific name of the webpage visited.
+  • Page Title: The title of the page as seen in the browser tab.
+  • Event Name: The specific event triggered (e.g., button click, video play).
+  • Date: The date of the visit or interaction.
+
+Metrics:
+  • Users: The total number of unique visitors to the site.
+  • Sessions: The number of browsing sessions initiated.
+  • Views: The number of times pages were viewed.
+
+Data Extraction Process:
+  1. Creating Reports in Google Analytics: Generating detailed reports in GA4 to extract relevant data.
+  2. Exporting Data: Downloading data in Excel format.
+  3. Processing Data: Cleaning and structuring the data for analysis.
+
+Project Deliverables:
+  • Excel Reports containing extracted analytics data.
+
+Next Steps:
+  • Future implementation of dashboards and visualizations for deeper insights.
+  • Ongoing monitoring and refinement of data collection methods.
