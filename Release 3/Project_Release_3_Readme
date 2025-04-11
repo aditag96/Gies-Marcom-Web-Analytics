@@ -1,0 +1,37 @@
+Gies Business & Gies Online Web Analytics Project - Release 3
+
+Project Overview:
+The Gies Business and Gies Online Web Analytics Project aims to analyze user behavior, engagement, and site performance across both domains using data extracted from Google Analytics. This phase of the project builds upon the foundation laid in Release 1 by incorporating advanced analytics techniques such as regression analysis, data visualization, and comparative analysis between the two domains. Python and R will be used to extract insights, generate reports, and improve decision-making processes.
+
+ Project Scope:
+- Domains Covered
+  - Gies Business
+  - Gies Online
+- Data Source: Google Analytics
+- Time Period: January 15, 2025 – March 15, 2025
+
+ Key Data Points Extracted:
+- Events: Tracking user interactions such as clicks, video plays (if any), form submissions, bounces, and downloads.
+- Customer Journey: Analyzing the flow of users through the website, identifying entry points, navigation patterns, and exit pages.
+- Landing Pages: Evaluating the performance of landing pages based on user engagement, bounce rates, and conversion potential.
+- Technology Stats: Device types, browsers, and operating systems used to access the websites.
+
+ Dimensions (Variables):
+- Page Name: The specific name of the webpage visited.
+- Page Title: The title of the page as seen in the browser tab.
+- Event Name: The specific event triggered (e.g., button click, video play).
+- Date: The date of the visit or interaction.
+
+ Metrics:
+- Users: The total number of unique visitors to the site.
+- Sessions: The number of browsing sessions initiated.
+- Views: The number of times pages were viewed.
+
+ Project Deliverables:
+- Insights and recommendations from Customer Engagement, Overall website and Tech stats.
+- Code Repository featuring Python scripts
+
+ Next Steps:
+- Deep Dive into Device type stats for Business and Online and check how is the penetration of Domestic vs International Traffic
+- Identify the source of traffic that is non English pages and try to find a way to exclude them
+- Draft a detailed final report with all findings and recommendations
